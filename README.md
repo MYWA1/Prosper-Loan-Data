@@ -1,4 +1,4 @@
-# (ProsperLoan data exploration)
+# (ProsperLoan Data Exploration & Visuallization)
 ## by (Ajanaku Olumide)
 
 
